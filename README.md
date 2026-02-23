@@ -131,64 +131,125 @@ The task focuses on implementing real-world problem statements using Python func
 1. Calculates attendance percentage
 2. Determines exam eligibility
 
-
 📌 Task 6 – Real-Time System Simulations with Functions
-📖 Overview :
+📖 Overview
 This task focuses on building real-time industry-based system simulations using Python functions and logical constructs.
 
-Concepts Used:
+🧠 Concepts Used
 Functions
+
 Conditional Logic
+
 Loops
+
 Lists and Dictionaries
+
 Mathematical Operations
+
 Percentage & Average Computation
+
 Capacity Validation
+
 Return Values
+
+🏭 Industries Simulated
 Each problem simulates systems used in industries like:
-Smart Infrastructure
-Logistics & Delivery
-Entertainment & Cinema
-Cloud Computing
-Education Technology
-Energy Management
-Event Management
-🧠 Problems Implemented
+
+🏢 Smart Infrastructure
+
+🚚 Logistics & Delivery
+
+🎬 Entertainment & Cinema
+
+☁ Cloud Computing
+
+🎓 Education Technology
+
+⚡ Energy Management
+
+🎟 Event Management
+
+🧩 Problems Implemented
 1️⃣ Smart Infrastructure – Smart Parking Lot Management System
-
+📌 Problem Description
 Accepts vehicle entry and exit logs
+
 Calculates total parked vehicles
+
 Identifies peak parking usage
+
 Alerts if parking exceeds capacity
+
+🎯 Objective
+To simulate a real-world smart parking monitoring system used in malls, offices, and smart cities.
+
 2️⃣ Logistics – Online Food Delivery Time Estimator
-
+📌 Problem Description
 Estimates delivery time based on distance
+
 Applies traffic-based delay adjustments
+
 Applies weather-based delay adjustments
+
 Displays final Estimated Time of Arrival (ETA)
+
+🎯 Objective
+To model dynamic ETA calculation similar to modern food delivery platforms.
+
 3️⃣ Entertainment – Movie Theatre Seat Occupancy Analyzer
-
+📌 Problem Description
 Calculates occupancy percentage
-Determines if show is Available / Almost Full / Housefull
+
+Determines if show is:
+
+Available
+
+Almost Full
+
+Housefull
+
 Suggests opening additional shows if occupancy is high
+
+🎯 Objective
+To simulate real-time theatre booking analytics and demand monitoring.
+
 4️⃣ Cloud Computing – Server Load Classification System
-
+📌 Problem Description
 Calculates average CPU usage
-Classifies load as Normal / Warning / Critical
+
+Classifies load as:
+
+Normal
+
+Warning
+
+Critical
+
 Uses loop-based average calculation
+
+🎯 Objective
+To simulate server monitoring systems used in cloud platforms.
+
 5️⃣ Education Technology – Smart Classroom Resource Usage Monitor
-
+📌 Problem Description
 Tracks usage hours of classroom resources
-Identifies overused resources
-Triggers energy alert if usage exceeds threshold
-6️⃣ Event Management – Online Event Registration Capacity Controller
 
+Identifies overused resources
+
+Triggers energy alert if usage exceeds threshold
+
+🎯 Objective
+To monitor and optimize digital classroom resource consumption.
+
+6️⃣ Event Management – Online Event Registration Capacity Controller
+📌 Problem Description
 Tracks total registrations
+
 Prevents overbooking beyond capacity
+
 Activates waitlist mode when capacity is exceeded
+
 Displays confirmed and waitlisted users
 
-🔟 Smart Electricity Bill Analyzer
-1. Implements slab-based billing system
-2. Classifies usage as Low / Moderate / High
-3. Uses return values and conditional logic
+🎯 Objective
+To simulate event booking systems with real-time capacity management.
