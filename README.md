@@ -131,6 +131,63 @@ The task focuses on implementing real-world problem statements using Python func
 1. Calculates attendance percentage
 2. Determines exam eligibility
 
+
+📌 Task 6 – Real-Time System Simulations with Functions
+📖 Overview :
+This task focuses on building real-time industry-based system simulations using Python functions and logical constructs.
+
+Concepts Used:
+Functions
+Conditional Logic
+Loops
+Lists and Dictionaries
+Mathematical Operations
+Percentage & Average Computation
+Capacity Validation
+Return Values
+Each problem simulates systems used in industries like:
+Smart Infrastructure
+Logistics & Delivery
+Entertainment & Cinema
+Cloud Computing
+Education Technology
+Energy Management
+Event Management
+🧠 Problems Implemented
+1️⃣ Smart Infrastructure – Smart Parking Lot Management System
+
+Accepts vehicle entry and exit logs
+Calculates total parked vehicles
+Identifies peak parking usage
+Alerts if parking exceeds capacity
+2️⃣ Logistics – Online Food Delivery Time Estimator
+
+Estimates delivery time based on distance
+Applies traffic-based delay adjustments
+Applies weather-based delay adjustments
+Displays final Estimated Time of Arrival (ETA)
+3️⃣ Entertainment – Movie Theatre Seat Occupancy Analyzer
+
+Calculates occupancy percentage
+Determines if show is Available / Almost Full / Housefull
+Suggests opening additional shows if occupancy is high
+4️⃣ Cloud Computing – Server Load Classification System
+
+Calculates average CPU usage
+Classifies load as Normal / Warning / Critical
+Uses loop-based average calculation
+5️⃣ Education Technology – Smart Classroom Resource Usage Monitor
+
+Tracks usage hours of classroom resources
+Identifies overused resources
+Triggers energy alert if usage exceeds threshold
+6️⃣ Event Management – Online Event Registration Capacity Controller
+
+Tracks total registrations
+Prevents overbooking beyond capacity
+Activates waitlist mode when capacity is exceeded
+Displays confirmed and waitlisted users
+
 🔟 Smart Electricity Bill Analyzer
 1. Implements slab-based billing system
 2. Classifies usage as Low / Moderate / High
