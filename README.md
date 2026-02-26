@@ -131,7 +131,7 @@ The task focuses on implementing real-world problem statements using Python func
 1. Calculates attendance percentage
 2. Determines exam eligibility
 
-📌 Task 6 – Real-Time System Simulations with Functions
+# 📌 Task 6 – Real-Time System Simulations with Functions
 📖 Overview
 This task focuses on building real-time industry-based system simulations using Python functions and logical constructs.
 
@@ -253,3 +253,60 @@ Displays confirmed and waitlisted users
 
 🎯 Objective
 To simulate event booking systems with real-time capacity management.
+
+# 📘 Task 7 – OOPS Assignment (Python)
+
+This repository contains solutions for *Task 7 – Object Oriented Programming (OOPS)* implemented in Python.
+
+Each problem demonstrates basic OOP concepts like:
+- Class creation
+- Constructors (__init__)
+- Instance variables
+- Methods
+- Object creation
+
+---
+
+## 🔹 Problem 1: Smart Light Controller
+*Description:*  
+Create a class to control a smart light that can be turned ON or OFF and display its status.
+
+*Real-Time Use:* Smart home automation systems
+
+---
+
+## 🔹 Problem 2: Employee ID Card System
+*Description:*  
+Create a class that stores employee name, ID, and department and displays ID card details.
+
+*Real-Time Use:* Corporate HR systems
+
+---
+
+## 🔹 Problem 3: Mobile Contact Record
+*Description:*  
+Create a class to store contact name and phone number and display contact information.
+
+*Real-Time Use:* Mobile contact applications
+
+---
+
+## 🔹 Problem 4: Product Price Tag Generator
+*Description:*  
+Create a class that stores product name and price and prints a formatted price tag.
+
+*Real-Time Use:* Retail billing systems
+
+---
+
+## 🔹 Problem 5: Movie Rating Display System
+*Description:*  
+Create a class that stores movie name and rating and displays movie details.
+
+*Real-Time Use:* Streaming platforms
+
+---
+
+## 🔹 Problem 6: Delivery Address Manager
+*Description:*  
+Create a class that stores customer name and delivery address and prints delivery details.
