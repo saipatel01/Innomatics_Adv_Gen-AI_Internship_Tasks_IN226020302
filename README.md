@@ -305,6 +305,10 @@ Create a class that stores movie name and rating and displays movie details.
 
 *Real-Time Use:* Streaming platforms
 
+## 🔹 Problem 6: Delivery Address Manager
+*Description:*  
+Create a class that stores customer name and delivery address and prints delivery details.
+
 FastAPI Assignment 1
 This project is a simple API application built using FastAPI. It provides endpoints to manage and retrieve product information.
 
@@ -331,9 +335,3 @@ Install dependencies: pip install fastapi uvicorn
 Run the server: uvicorn main:app --reload
 
 Open in browser: http://127.0.0.1:8000/docs
-
----
-
-## 🔹 Problem 6: Delivery Address Manager
-*Description:*  
-Create a class that stores customer name and delivery address and prints delivery details.
