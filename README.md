@@ -305,6 +305,33 @@ Create a class that stores movie name and rating and displays movie details.
 
 *Real-Time Use:* Streaming platforms
 
+FastAPI Assignment 1
+This project is a simple API application built using FastAPI. It provides endpoints to manage and retrieve product information.
+
+Endpoints
+GET /products Returns all products and the total count.
+
+GET /products/category/{category_name} Returns products belonging to a specific category.
+
+GET /products/instock Returns only the products that are currently in stock.
+
+GET /store/summary Provides a summary of the store including total products, stock status, and categories.
+
+GET /products/search/{keyword} Searches products based on a keyword in the product name.
+
+Bonus: GET /products/deals Returns the cheapest and most expensive product.
+
+Tech Stack
+Python
+FastAPI
+Uvicorn
+Running the API
+Install dependencies: pip install fastapi uvicorn
+
+Run the server: uvicorn main:app --reload
+
+Open in browser: http://127.0.0.1:8000/docs
+
 ---
 
 ## 🔹 Problem 6: Delivery Address Manager
