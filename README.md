@@ -305,11 +305,15 @@ Create a class that stores movie name and rating and displays movie details.
 
 *Real-Time Use:* Streaming platforms
 
+---
+
 ## 🔹 Problem 6: Delivery Address Manager
 *Description:*  
 Create a class that stores customer name and delivery address and prints delivery details.
 
-FastAPI Assignment 1
+---
+
+## FastApi Assignment1
 This project is a simple API application built using FastAPI. It provides endpoints to manage and retrieve product information.
 
 Endpoints
